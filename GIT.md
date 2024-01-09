@@ -1,2 +1,0 @@
-CODE
-[LINK HERE]{https://github.com/MangB3n/Mobile-Development-project}
